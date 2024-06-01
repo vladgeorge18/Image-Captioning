@@ -114,5 +114,5 @@ Steps for additional improvement would be exploring the hyperparameters, differe
 - Balan Petru
 - Eremia Silvia
 
-Xarxes Neuronals i Aprenentatge Profund
-Grau de __Artificial Intelligence__, UAB, 2024
+Deep Learning and Neural Networks
+__Artificial Intelligence__, UAB, 2024
