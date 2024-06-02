@@ -95,6 +95,8 @@ The core architecture consists of a CNN encoder and an RNN decoder. The CNN enco
 
 ![pred3](https://github.com/vladgeorge18/Image-Captioning/assets/116036453/3552231a-45fe-4b90-92ff-17d08a623dc9)
 
+![pred24](https://github.com/vladgeorge18/Image-Captioning/assets/116036453/f08b502f-bb19-4a0d-969d-d3656505fe44)
+
 
 ## BLEU Score Evaluation
 The model's performance is evaluated using BLEU (Bilingual Evaluation Understudy) scores. In this context, BLEU scores are used to evaluate how well the generated captions match the reference captions in the test dataset.
