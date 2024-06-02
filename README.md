@@ -85,6 +85,17 @@ The core architecture consists of a CNN encoder and an RNN decoder. The CNN enco
 - Optimizer: `Adam`
 - Scheduler: `StepLR`
 
+## Predictions
+
+![attention22](https://github.com/vladgeorge18/Image-Captioning/assets/116036453/a44265d8-d7f4-4407-93b5-0992eab1c511)
+
+![attgoodpred](https://github.com/vladgeorge18/Image-Captioning/assets/116036453/dedb8856-49b6-412b-ae41-18260ba7751f)
+
+![attention7](https://github.com/vladgeorge18/Image-Captioning/assets/116036453/1b568db5-9b25-4b27-a788-99d793fdad07)
+
+![pred3](https://github.com/vladgeorge18/Image-Captioning/assets/116036453/3552231a-45fe-4b90-92ff-17d08a623dc9)
+
+
 ## BLEU Score Evaluation
 The model's performance is evaluated using BLEU (Bilingual Evaluation Understudy) scores. In this context, BLEU scores are used to evaluate how well the generated captions match the reference captions in the test dataset.
 
